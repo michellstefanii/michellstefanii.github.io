@@ -1,4 +1,4 @@
-import{r as zs,j as xo}from"./index-BiuyXLSR.js";/**
+import{r as zs,j as xo}from"./index-Bix0Ocsn.js";/**
  * @license
  * Copyright 2010-2025 Three.js Authors
  * SPDX-License-Identifier: MIT
